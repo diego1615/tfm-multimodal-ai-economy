@@ -1,0 +1,118 @@
+{
+  "executed_at": "2026-10-09T11:26:57.969290+00:00",
+  "python": "3.13.9",
+  "packages": {
+    "numpy": "2.3.5",
+    "pandas": "2.3.3",
+    "scikit-learn": "1.7.2",
+    "matplotlib": "3.10.6",
+    "seaborn": "0.13.2",
+    "requests": "2.32.5",
+    "beautifulsoup4": "4.13.5"
+  },
+  "random_seed": 42,
+  "offline": true,
+  "corpus_sources": 18,
+  "spoken_sources": 12,
+  "written_sources": 6,
+  "corpus_words": 33499,
+  "candidate_sentences": 1202,
+  "year_range": [
+    2012,
+    2025
+  ],
+  "kaggle_url": "https://www.kaggle.com/datasets/rounakbanik/ted-talks",
+  "ted_audit": {
+    "metadata_rows": 2550,
+    "transcript_rows": 2467,
+    "metadata_exact_duplicate_rows_removed": 0,
+    "transcript_exact_duplicate_rows_removed": 3,
+    "unique_transcript_rows": 2464,
+    "joined_rows": 2464,
+    "missing_transcript_rows": 86,
+    "speaker_selected_count": 15,
+    "off_topic_talks_removed": 3,
+    "excluded_slugs": [
+      "nick_bostrom_on_our_biggest_problems",
+      "tim_leberecht_3_ways_to_usefully_lose_control_of_your_reputation",
+      "zeynep_tufekci_how_the_internet_has_made_social_change_easy_to_organize_hard_to_win"
+    ],
+    "selected_talks": 12,
+    "metadata_sha256": "801c01b1f88181bce3dc1af7d4416df45d45f5729e6384eccb60368c00fabd6e",
+    "transcripts_sha256": "682b8d7e69cfabcdfabf4b0f9700190aa0f700ba0d05fa1561e6edcc4ac27556",
+    "join_key": "canonical_url",
+    "join_validation": "one_to_one_after_exact_deduplication",
+    "selection": [
+      "Andrew McAfee",
+      "Anthony Goldbloom",
+      "Augie Picado",
+      "David Autor",
+      "Erik Brynjolfsson",
+      "Garry Kasparov",
+      "Jeremy Howard",
+      "Nick Bostrom",
+      "Stuart Russell",
+      "Tim Leberecht",
+      "Zeynep Tufekci"
+    ]
+  },
+  "web_audit": [
+    {
+      "id": "ilo2025",
+      "url": "https://www.ilo.org/publications/generative-ai-and-jobs-refined-global-index-occupational-exposure",
+      "status": "ok",
+      "words": 359,
+      "retrieval_method": "web_reader_text",
+      "source_text_sha256": "158f48c5bf05108d0343a5abe0164f26046cf7478ab2a580822e6989b3c50b00"
+    },
+    {
+      "id": "cbo2024",
+      "url": "https://www.cbo.gov/publication/61147",
+      "status": "ok",
+      "words": 5999,
+      "retrieval_method": "web_reader_text",
+      "source_text_sha256": "3866e20ea656cf3cac5b8d2bcc7678442aeb62b84645d73976d809542ae1ca3f"
+    },
+    {
+      "id": "gpts2023",
+      "url": "https://arxiv.org/abs/2303.10130",
+      "status": "ok",
+      "words": 236,
+      "retrieval_method": "web_reader_text",
+      "source_text_sha256": "7de982e8d9c391fd892eac75dd91bf59b6f61de8af23d4b7f11c33ccc6145064"
+    },
+    {
+      "id": "imf2024",
+      "url": "https://www.imf.org/en/blogs/articles/2024/01/14/ai-will-transform-the-global-economy-lets-make-sure-it-benefits-humanity",
+      "status": "ok",
+      "words": 605,
+      "retrieval_method": "web_reader_text",
+      "source_text_sha256": "0977c457ab3fb897ede1535c6833ada9a0c8510860ebf1c4fa4e641b53dc8f65"
+    },
+    {
+      "id": "nber31161",
+      "url": "https://www.nber.org/papers/w31161",
+      "status": "ok",
+      "words": 143,
+      "retrieval_method": "cached_html_scraping",
+      "source_text_sha256": "06f26e0f570980b678e79978ef2837184fbfe81453c81b2202bee86e0d03d5f1"
+    },
+    {
+      "id": "nber32487",
+      "url": "https://www.nber.org/papers/w32487",
+      "status": "ok",
+      "words": 309,
+      "retrieval_method": "cached_html_scraping",
+      "source_text_sha256": "51f735a948e4740edfbfb8b28f2514131ef89349151ff1612fbec50f05b58eba"
+    }
+  ],
+  "audio_asr_executed": false,
+  "visual_video_analysis_executed": false,
+  "external_llm_executed": false,
+  "notes": [
+    "Recuperación de transcripciones preexistentes de vídeos, no transcripción automática de audio ejecutada.",
+    "La caché del lector web es texto de la página, puede ser parcial y no equivale a HTML original.",
+    "Fecha de adquisición null cuando no se dispone de registro; processed_at es fecha de procesamiento.",
+    "No se publican corpus completos ni tokens de acceso. Datos crudos/cachés quedan excluidos del repositorio."
+  ]
+}

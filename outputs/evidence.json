@@ -1,0 +1,122 @@
+[
+  {
+    "citation": "E01",
+    "sentence_id": "imf2024:s1",
+    "source_id": "imf2024",
+    "title": "AI Will Transform the Global Economy. Let's Make Sure It Benefits Humanity.",
+    "url": "https://www.imf.org/en/blogs/articles/2024/01/14/ai-will-transform-the-global-economy-lets-make-sure-it-benefits-humanity",
+    "modality": "written",
+    "relevance_score": 0.187722,
+    "character_length_internal": 84,
+    "excerpt": "Let’s Make Sure It Benefits Humanity., Kristalina Georgieva, January 14, 2024. * * *",
+    "excerpt_scope": "Cita breve para trazabilidad; oraciones completas sólo en caché privada"
+  },
+  {
+    "citation": "E02",
+    "sentence_id": "nber31161:s1",
+    "source_id": "nber31161",
+    "title": "Generative AI at Work",
+    "url": "https://www.nber.org/papers/w31161",
+    "modality": "written",
+    "relevance_score": 0.150395,
+    "character_length_internal": 128,
+    "excerpt": "New AI tools have the potential to change the way workers perform and learn, …",
+    "excerpt_scope": "Cita breve para trazabilidad; oraciones completas sólo en caché privada"
+  },
+  {
+    "citation": "E03",
+    "sentence_id": "nber32487:s4",
+    "source_id": "nber32487",
+    "title": "The Simple Macroeconomics of AI",
+    "url": "https://www.nber.org/papers/w32487",
+    "modality": "written",
+    "relevance_score": 0.135576,
+    "character_length_internal": 228,
+    "excerpt": "Using existing estimates on exposure to AI and productivity improvements at the task level, …",
+    "excerpt_scope": "Cita breve para trazabilidad; oraciones completas sólo en caché privada"
+  },
+  {
+    "citation": "E04",
+    "sentence_id": "ted_anthony_goldbloom_the_jobs_we_ll_lose_to_machines_and_the_ones_we_won_t:s25",
+    "source_id": "ted_anthony_goldbloom_the_jobs_we_ll_lose_to_machines_and_the_ones_we_won_t",
+    "title": "The jobs we'll lose to machines -- and the ones we won't",
+    "url": "https://www.ted.com/talks/anthony_goldbloom_the_jobs_we_ll_lose_to_machines_and_the_ones_we_won_t",
+    "modality": "spoken",
+    "relevance_score": 0.128909,
+    "character_length_internal": 203,
+    "excerpt": "Machines cannot compete with us when it comes to tackling novel situations, and this …",
+    "excerpt_scope": "Cita breve para trazabilidad; oraciones completas sólo en caché privada"
+  },
+  {
+    "citation": "E05",
+    "sentence_id": "ted_erik_brynjolfsson_the_key_to_growth_race_em_with_em_the_machines:s54",
+    "source_id": "ted_erik_brynjolfsson_the_key_to_growth_race_em_with_em_the_machines",
+    "title": "The key to growth? Race with the machines",
+    "url": "https://www.ted.com/talks/erik_brynjolfsson_the_key_to_growth_race_em_with_em_the_machines",
+    "modality": "spoken",
+    "relevance_score": 0.132615,
+    "character_length_internal": 164,
+    "excerpt": "That is our grand challenge.The new machine age can be dated to a day …",
+    "excerpt_scope": "Cita breve para trazabilidad; oraciones completas sólo en caché privada"
+  },
+  {
+    "citation": "E06",
+    "sentence_id": "ted_nick_bostrom_what_happens_when_our_computers_get_smarter_than_we_are:s87",
+    "source_id": "ted_nick_bostrom_what_happens_when_our_computers_get_smarter_than_we_are",
+    "title": "What happens when our computers get smarter than we are?",
+    "url": "https://www.ted.com/talks/nick_bostrom_what_happens_when_our_computers_get_smarter_than_we_are",
+    "modality": "spoken",
+    "relevance_score": 0.123192,
+    "character_length_internal": 433,
+    "excerpt": "But the more of the control problem that we solve in advance, the better …",
+    "excerpt_scope": "Cita breve para trazabilidad; oraciones completas sólo en caché privada"
+  },
+  {
+    "citation": "E07",
+    "sentence_id": "ted_tim_leberecht_4_ways_to_build_a_human_company_in_the_age_of_machines:s66",
+    "source_id": "ted_tim_leberecht_4_ways_to_build_a_human_company_in_the_age_of_machines",
+    "title": "4 ways to build a human company in the age of machines",
+    "url": "https://www.ted.com/talks/tim_leberecht_4_ways_to_build_a_human_company_in_the_age_of_machines",
+    "modality": "spoken",
+    "relevance_score": 0.12027,
+    "character_length_internal": 92,
+    "excerpt": "In the face of artificial intelligence and machine learning, we need a new radical …",
+    "excerpt_scope": "Cita breve para trazabilidad; oraciones completas sólo en caché privada"
+  },
+  {
+    "citation": "E08",
+    "sentence_id": "ted_stuart_russell_how_ai_might_make_us_better_people:s7",
+    "source_id": "ted_stuart_russell_how_ai_might_make_us_better_people",
+    "title": "3 principles for creating safer AI",
+    "url": "https://www.ted.com/talks/stuart_russell_how_ai_might_make_us_better_people",
+    "modality": "spoken",
+    "relevance_score": 0.114577,
+    "character_length_internal": 239,
+    "excerpt": "And that will enable machines, along with the ability to look further ahead than …",
+    "excerpt_scope": "Cita breve para trazabilidad; oraciones completas sólo en caché privada"
+  },
+  {
+    "citation": "E09",
+    "sentence_id": "ilo2025:s11",
+    "source_id": "ilo2025",
+    "title": "Generative AI and Jobs: A Refined Global Index of Occupational Exposure",
+    "url": "https://www.ilo.org/publications/generative-ai-and-jobs-refined-global-index-occupational-exposure",
+    "modality": "written",
+    "relevance_score": 0.114687,
+    "character_length_internal": 121,
+    "excerpt": "As most occupations consist of tasks that require human input, transformation of jobs is …",
+    "excerpt_scope": "Cita breve para trazabilidad; oraciones completas sólo en caché privada"
+  },
+  {
+    "citation": "E10",
+    "sentence_id": "gpts2023:s1",
+    "source_id": "gpts2023",
+    "title": "GPTs are GPTs: An Early Look at the Labor Market Impact Potential of Large Language Models",
+    "url": "https://arxiv.org/abs/2303.10130",
+    "modality": "written",
+    "relevance_score": 0.105312,
+    "character_length_internal": 256,
+    "excerpt": "We investigate the potential implications of large language models (LLMs), such as Generative Pre-trained …",
+    "excerpt_scope": "Cita breve para trazabilidad; oraciones completas sólo en caché privada"
+  }
+]

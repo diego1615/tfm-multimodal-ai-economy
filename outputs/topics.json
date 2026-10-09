@@ -1,0 +1,109 @@
+{
+  "topics": [
+    {
+      "topic": "T1",
+      "terms": [
+        "humans",
+        "machine",
+        "human",
+        "machines",
+        "intelligence",
+        "learning",
+        "machine learning",
+        "problem",
+        "algorithm",
+        "computer"
+      ]
+    },
+    {
+      "topic": "T2",
+      "terms": [
+        "ai",
+        "workers",
+        "generative ai",
+        "task",
+        "exposure",
+        "effects",
+        "tasks",
+        "productivity",
+        "index",
+        "increase"
+      ]
+    },
+    {
+      "topic": "T3",
+      "terms": [
+        "great",
+        "economy",
+        "work",
+        "time",
+        "jobs",
+        "look",
+        "society",
+        "words",
+        "middle",
+        "people"
+      ]
+    },
+    {
+      "topic": "T4",
+      "terms": [
+        "chess",
+        "deep blue",
+        "played",
+        "champion",
+        "grandmaster",
+        "deep",
+        "machine",
+        "intelligent",
+        "reached",
+        "supercomputer"
+      ]
+    },
+    {
+      "topic": "T5",
+      "terms": [
+        "powered",
+        "capabilities",
+        "models",
+        "significantly",
+        "impacts",
+        "software",
+        "tasks",
+        "implications",
+        "higher",
+        "suggests"
+      ]
+    }
+  ],
+  "diagnostics": {
+    "vocabulary_size": 1848,
+    "n_topics": 5,
+    "n_clusters": 4,
+    "silhouette_cosine": 0.061719789301423064,
+    "nmf_relative_reconstruction_residual": 0.7397802573350071,
+    "extra_oral_stopwords": [
+      "actually",
+      "bit",
+      "don",
+      "going",
+      "got",
+      "just",
+      "kind",
+      "know",
+      "let",
+      "like",
+      "ll",
+      "lot",
+      "really",
+      "said",
+      "say",
+      "sort",
+      "thing",
+      "things",
+      "think",
+      "ve"
+    ],
+    "interpretation": "Diagnósticos internos de un corpus pequeño y deliberado; no precisión de clasificación, no validación factual ni representatividad poblacional."
+  }
+}

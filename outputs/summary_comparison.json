@@ -1,0 +1,106 @@
+{
+  "metrics": {
+    "centroid": {
+      "selected_sentences": 10,
+      "selected_words_internal": 307,
+      "source_coverage_fraction": 0.3888888888888889,
+      "mean_centroid_relevance": 0.13949943386405073,
+      "mean_pairwise_redundancy": 0.017055789402987565,
+      "source_balanced_representation_cosine": 0.12573838141084942,
+      "compression_ratio_internal": 0.009164452670228963,
+      "note": "Métricas internas: no equivalen a calidad factual, ROUGE, exactitud o satisfacción de lector. No existe resumen de referencia."
+    },
+    "centroid_quota": {
+      "selected_sentences": 10,
+      "selected_words_internal": 342,
+      "source_coverage_fraction": 0.5555555555555556,
+      "mean_centroid_relevance": 0.13531748664469517,
+      "mean_pairwise_redundancy": 0.016932715785276806,
+      "source_balanced_representation_cosine": 0.11230413016814772,
+      "compression_ratio_internal": 0.010209259977909788,
+      "note": "Métricas internas: no equivalen a calidad factual, ROUGE, exactitud o satisfacción de lector. No existe resumen de referencia."
+    },
+    "mmr": {
+      "selected_sentences": 10,
+      "selected_words_internal": 335,
+      "source_coverage_fraction": 0.5555555555555556,
+      "mean_centroid_relevance": 0.13132569693872914,
+      "mean_pairwise_redundancy": 0.005869696691201652,
+      "source_balanced_representation_cosine": 0.11817304105695535,
+      "compression_ratio_internal": 0.010000298516373624,
+      "note": "Métricas internas: no equivalen a calidad factual, ROUGE, exactitud o satisfacción de lector. No existe resumen de referencia."
+    }
+  },
+  "sensitivity": [
+    {
+      "lambda_relevance": 0.5,
+      "selected_sentences": 10,
+      "selected_words_internal": 330,
+      "source_coverage_fraction": 0.5555555555555556,
+      "mean_centroid_relevance": 0.12942050074426611,
+      "mean_pairwise_redundancy": 0.0035666457811969797,
+      "source_balanced_representation_cosine": 0.11951822168962595,
+      "compression_ratio_internal": 0.009851040329562076,
+      "note": "Métricas internas: no equivalen a calidad factual, ROUGE, exactitud o satisfacción de lector. No existe resumen de referencia."
+    },
+    {
+      "lambda_relevance": 0.65,
+      "selected_sentences": 10,
+      "selected_words_internal": 335,
+      "source_coverage_fraction": 0.5555555555555556,
+      "mean_centroid_relevance": 0.13132569693872914,
+      "mean_pairwise_redundancy": 0.005869696691201652,
+      "source_balanced_representation_cosine": 0.11817304105695535,
+      "compression_ratio_internal": 0.010000298516373624,
+      "note": "Métricas internas: no equivalen a calidad factual, ROUGE, exactitud o satisfacción de lector. No existe resumen de referencia."
+    },
+    {
+      "lambda_relevance": 0.8,
+      "selected_sentences": 10,
+      "selected_words_internal": 384,
+      "source_coverage_fraction": 0.5555555555555556,
+      "mean_centroid_relevance": 0.13266798900717283,
+      "mean_pairwise_redundancy": 0.008178119839482714,
+      "source_balanced_representation_cosine": 0.11466792952553836,
+      "compression_ratio_internal": 0.01146302874712678,
+      "note": "Métricas internas: no equivalen a calidad factual, ROUGE, exactitud o satisfacción de lector. No existe resumen de referencia."
+    }
+  ],
+  "centroid_sentence_ids": [
+    "imf2024:s1",
+    "nber31161:s1",
+    "nber32487:s7",
+    "nber31161:s6",
+    "nber32487:s4",
+    "ted_erik_brynjolfsson_the_key_to_growth_race_em_with_em_the_machines:s54",
+    "ted_erik_brynjolfsson_the_key_to_growth_race_em_with_em_the_machines:s40",
+    "ted_anthony_goldbloom_the_jobs_we_ll_lose_to_machines_and_the_ones_we_won_t:s25",
+    "ted_nick_bostrom_what_happens_when_our_computers_get_smarter_than_we_are:s24",
+    "ilo2025:s1"
+  ],
+  "centroid_quota_sentence_ids": [
+    "imf2024:s1",
+    "nber31161:s1",
+    "nber32487:s7",
+    "ted_erik_brynjolfsson_the_key_to_growth_race_em_with_em_the_machines:s54",
+    "ted_anthony_goldbloom_the_jobs_we_ll_lose_to_machines_and_the_ones_we_won_t:s25",
+    "ted_nick_bostrom_what_happens_when_our_computers_get_smarter_than_we_are:s24",
+    "ilo2025:s1",
+    "ted_david_autor_why_are_there_still_so_many_jobs:s103",
+    "ted_tim_leberecht_4_ways_to_build_a_human_company_in_the_age_of_machines:s4",
+    "ted_andrew_mcafee_what_will_future_jobs_look_like:s41"
+  ],
+  "mmr_sentence_ids": [
+    "imf2024:s1",
+    "nber31161:s1",
+    "nber32487:s4",
+    "ted_anthony_goldbloom_the_jobs_we_ll_lose_to_machines_and_the_ones_we_won_t:s25",
+    "ted_erik_brynjolfsson_the_key_to_growth_race_em_with_em_the_machines:s54",
+    "ted_nick_bostrom_what_happens_when_our_computers_get_smarter_than_we_are:s87",
+    "ted_tim_leberecht_4_ways_to_build_a_human_company_in_the_age_of_machines:s66",
+    "ted_stuart_russell_how_ai_might_make_us_better_people:s7",
+    "ilo2025:s11",
+    "gpts2023:s1"
+  ],
+  "candidate_sentences": 1202
+}
